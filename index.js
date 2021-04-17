@@ -1,0 +1,1 @@
+console.log("Starting Arrays in VS Code")
